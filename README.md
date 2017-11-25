@@ -9,7 +9,7 @@ At Shitfork, we merge all pull requests directly to Master. Any pull request tha
 
 At the same time, if your patch is _not_ valid under the contribution protocol, it will _not_ be merged.
 
-The contribution protocol is simple and easy to follow, but the reasoning behind it can be hard to understand until you see the results in action. It's a hill-climbing algorithm. The best way to understand it is to read the annotated version before the raw protocol itself.
+The contribution protocol is simple and easy to follow, but the reasoning behind it can be hard to understand until you see the results in action. It's a hill-climbing algorithm. The best way to understand it is to read the [annotated version](shitfork.org/annotated-c4.html) before the [raw protocol](CONTRIBUTING.MD) itself.
 
 The contribution protocol applies to _everyone_. A cardinal sin that many open source developers make is to place themselves above others. "I founded this project thus my intellect is superior to that of others". It's not just immodest and rude, and usually inaccurate, it's also poor business. The rules apply equally to everyone, without distinction.
 
