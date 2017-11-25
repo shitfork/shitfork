@@ -3,6 +3,7 @@ The Collective Code Construction Contract (C4) is an evolution of the github.com
 ## License
 
 Copyright (c) 2009-2016 Pieter Hintjens.
+Copyright (c) 2017-2018 Gareth Hayes.
 
 This Specification is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.
 
@@ -117,5 +118,6 @@ C4 is meant to provide a reusable optimal collaboration model for open source so
 ## Implementations
 
 * The [ZeroMQ community](http://zeromq.org) uses the C4 process for many projects.
+* [Fractalide](https://github.com/fractalide) uses the C4.
 * [OSSEC](http://www.ossec.net/) [uses the C4 process](https://ossec-docs.readthedocs.org/en/latest/development/oRFC/orfc-1.html).
 * The [Machinekit](http://www.machinekit.io/) community [uses the C4 process](http://www.machinekit.io/about/).
